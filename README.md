@@ -1,1 +1,2 @@
 # Amazon-Prime-TV-Shows-and-Movies-EDA
+This project performs an exploratory data analysis (EDA) on Amazon Prime Video’s content catalog using two primary datasets: one containing details about titles (movies and TV shows) and another containing credits (cast and crew information). The analysis focuses on understanding the structure, quality, and completeness of the data, setting the stage for deeper investigation into content trends, genre distribution, ratings, release patterns, and regional availability.
